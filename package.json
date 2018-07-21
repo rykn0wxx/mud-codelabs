@@ -1,0 +1,26 @@
+{
+  "name": "mud-codelabs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rykn0wxx <raurici666@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-eslint": "^5.0.0",
+    "gulp-inject": "^4.3.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-size": "^3.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "lodash": "^4.17.10",
+    "main-bower-files": "^2.13.1",
+    "uglify-save-license": "^0.4.1",
+    "wiredep": "^4.0.0",
+    "wrench": "^1.5.9"
+  }
+}

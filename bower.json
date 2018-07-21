@@ -1,0 +1,21 @@
+{
+  "name": "mud-codelabs",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "rykn0wxx <raurici666@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
